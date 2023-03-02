@@ -13,7 +13,7 @@ body {
 }
 
 h1, h2 {
-    font-family: Osald, sans-serif;
+    font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #3a3a3a;
@@ -171,4 +171,10 @@ hr {
     border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
+}
+
+#circle-cover-bg {
+    background: url('../images/ethos-center-image.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
 }
